@@ -34,4 +34,4 @@ overcoming several problems including the ability to learn from the images thems
 - Standard deviation between pixels can be used as a way to identify defective images (a novelty for us).
 
 
-![image](https://user-images.githubusercontent.com/58748407/138858363-8355dd51-eecd-4a2d-bbf1-8fd67ea5d819.png)
+![image](https://user-images.githubusercontent.com/58748407/138860045-98b200b0-e66b-4f82-80b2-7f1611bd7b7c.png)
